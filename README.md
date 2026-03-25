@@ -28,7 +28,7 @@ This directory contains the core code and trained checkpoints needed to reproduc
   - `sensitivity_analysis_from_excel.m`
   - `create_sensitivity_figures.m`
 - `models/`
-  - trained PyTorch checkpoints.
+  - trained PyTorch checkpoints. [Baidu Drive](https://pan.baidu.com/s/1QPyTK8_lsDlnafXVmmAeJA)
 - `docs/`
   - upload and curation notes.
 - `requirements.txt`
