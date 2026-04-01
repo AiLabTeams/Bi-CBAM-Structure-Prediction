@@ -15,7 +15,7 @@ This directory contains the core code and trained checkpoints needed to reproduc
   - `bicbam_network.py`: network definitions.
   - `data_utils.py`: Excel parsing, dataset construction, and split helpers.
   - `metrics_utils.py`: SSIM/PCC and decoding utilities.
-  - `train_model.py`: training entry point.
+  - `train_model.py`: training entry point.It will be made public following the acceptance of the paper.
   - `evaluate_model.py`: test-time evaluation entry point.
 - `benchmark/`
   - `benchmark_inverse_search.py`: traditional-method comparison.
